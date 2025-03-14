@@ -1,11 +1,11 @@
 **Documentation:**
 
-**Output of the website:**
+**Output:**
 
-Welcome to SIT737 Cloud Native Application Development
-Vivek Olladapu
+Welcome to SIT737 Cloud Native Application Development.
+Vivek Olladapu.
 View course button that shows the name of the course when it is clicked.
-When Clicked: Masters in Information Technology (Professional)
+When Clicked: Masters in Information Technology (Professional).
 
 
 **Part 1:**
