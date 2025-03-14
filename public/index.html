@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SIT737 Cloud Native Application Development</title>
+    <style>
+        body {
+            display: flex;
+            height: 100vh;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            font-family: Arial, sans-serif;
+            background: url('bgimage.jpg') no-repeat center center/cover;
+            text-align: center;
+            color: #fff; 
+        }
+        h1 {
+            color: #FFD700; 
+        }
+        p {
+            font-size: 1.2rem;
+        }
+        #courseInfo {
+            display: none;
+            margin-top: 20px;
+            font-weight: bold;
+        }
+        #viewCourseBtn {
+            background-color: #4CAF50;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        #viewCourseBtn:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to SIT737 Cloud Native Application Development</h1>
+    <p><strong>Vivek Olladapu</strong></p>
+
+    <button id="viewCourseBtn">View Course</button>
+    <p id="courseInfo">Masters in Information Technology (Professional)</p>
+
+    <script>
+        document.getElementById('viewCourseBtn').addEventListener('click', function() {
+            const courseInfo = document.getElementById('courseInfo');
+            courseInfo.style.display = 'block';
+        });
+    </script>
+</body>
+</html>
