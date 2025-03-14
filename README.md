@@ -35,7 +35,7 @@ Also install Express by using "npm install express".
 
 Now all the required node_modules, package.json, package-lock.json files will be created for the project.
 
-Create index.html for webpage frontend, create server.js for server and also add bgimage.png for background image.
+Create index.html for webpage frontend, create server.js for server and also add bgimage.png for background image (image which is taken from google).
 
 Project structure should be as below:
 
