@@ -54,7 +54,7 @@ In terminal, check the directory by using "pwd", and change the directory to the
 
 Now run the server by using the command "node server.js".
 
-Now the server will be running on the port 3001, and the url for localhost is "http://localhost:3001", we can change the ports if that port is already in use (for example: 3002, 3010, 3040, etc).
+Now the server will be running on the port 3021, and the url for localhost is "http://localhost:3021", we can change the ports if that port is already in use (for example: 3002, 3010, 3040, etc).
 
 Now the website will can be viewed.
 
