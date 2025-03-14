@@ -42,8 +42,8 @@ Project structure should be as below:
 sit737-2025-prac2p
 |--node_modules
 |--public
-|   |-- index.html
-|   |-- bgimage.png
+|   |--(index.html)
+|   |--(bgimage.png)
 |--server.js
 |--package.json
 |--package-lock.json
